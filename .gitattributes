@@ -1,0 +1,2 @@
+*.Batch linguist-detectable=false
+*..Net5.0 linguist-detectable=false
