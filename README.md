@@ -8,3 +8,5 @@ With ths program you can delete the "C:\Users\%username%\AppData\Local\Temp" and
 You can select between deleting the temp folder only, the prefetch folder only or both folders at the same time
 
 I hope you enjoy my project!!
+
+Laguages: Batch Script - .Net 5.0 (Windows Forms)
